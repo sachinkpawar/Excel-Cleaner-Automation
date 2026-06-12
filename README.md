@@ -8,6 +8,9 @@ A simple Python automation tool that cleans Excel files.
 - Cleans extra spaces from column names
 - Cleans extra spaces from text data
 - Saves a cleaned Excel file automatically
+## Screenshot
+
+![Excel Cleaner](screenshot.png)
 
 ## Tech Used
 - Python
